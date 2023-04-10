@@ -2,7 +2,7 @@
 
 ## Mac安装abigen
 
-有现成的build工具: https://geth.ethereum.org/downloads/
+下载build工具: https://geth.ethereum.org/downloads/
 
 ![img.png](img/img.png)
 
@@ -23,4 +23,4 @@ abigen -abi Storage.abi -type Storage -pkg contracts -out Storage.go
 
 ## 调用示例
 
-main.go
+[main.go](main.go)
